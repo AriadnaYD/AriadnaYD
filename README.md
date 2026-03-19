@@ -130,7 +130,4 @@ Sistema integral para gestionar donantes, registro de donaciones y disponibilida
 
 ### ⭐ Gracias por visitar mi perfil
 
-Si mis proyectos te resultan interesantes, no dudes en dejar una ⭐ y explorar mis repositorios.  
-**¡Sigamos aprendiendo juntos!** 🚀
-
 </div>
